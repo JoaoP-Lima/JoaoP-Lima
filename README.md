@@ -1,6 +1,6 @@
 ## 🧑🏻‍💻 João Lima
 
-**`Desenvolvedor FullStack(in progress)`**
+**`Full Stack Developer(in progress)`**
 
 I'm a Web Development student focused on becoming a Full Stack Developer, working with both Front-end and Back-end technologies.
 

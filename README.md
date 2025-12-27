@@ -6,7 +6,7 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
 
 <br>
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools(in progress)
 
 <div>
 

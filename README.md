@@ -42,6 +42,14 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node" 
+    title="Node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 
 
 </div>

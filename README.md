@@ -22,7 +22,7 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -30,7 +30,7 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -38,7 +38,7 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
     align="left" 
     alt="React" 
     title="React"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -46,7 +46,7 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
     align="left" 
     alt="Node" 
     title="Node"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
 />

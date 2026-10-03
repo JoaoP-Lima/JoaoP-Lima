@@ -1,8 +1,10 @@
 ## 🧑🏻‍💻 João Lima
 
-**`Full Stack Developer`**
 
-I'm a Web Development student focused on becoming a Full Stack Developer, working with both Front-end and Back-end technologies.
+
+**Web Developer Júnior**
+
+Sou Desenvolvedor Web Júnior, formado em Desenvolvimento Web Full Stack pela TripleTen, com experiência prática no desenvolvimento de aplicações web, atuando tanto no Front-End quanto no Back-End.
 
 <br>
 
@@ -60,7 +62,6 @@ I'm a Web Development student focused on becoming a Full Stack Developer, workin
 
 <div>
 
-<a href="https://instagram.com/joaopedro.cll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:joaopclima.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joao-pc-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
